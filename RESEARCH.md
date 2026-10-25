@@ -56,6 +56,19 @@ An alternate George Washington Walling is identified as Gabriel's **cousin** by 
 
 ## Image rights register
 
+### Installed visual assets (October 25, 2026 update)
+
+| Website asset | Creator / origin | Date | Rights and attribution | Important identity caveat |
+| --- | --- | --- | --- | --- |
+| `assets/walling-pond-2008.jpg` | Trashbag, original photo, https://commons.wikimedia.org/wiki/File:Walling_pond_2008_02_11.JPG | Photographed 2008-02-11 | CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/; cropping occurs in site CSS. | Real Walling Pond, not a survey or current-site condition. |
+| `assets/oregon-trail-bierstadt.jpg` | Albert Bierstadt, *The Oregon Trail*, https://commons.wikimedia.org/wiki/File:The_Oregon_Trail.jpg | Painting 1869 | Public domain | Illustrates migration; **not** the Walling family's particular wagon train. |
+| `assets/covered-wagon-1919.png` | Unknown artist, Oregon history illustration, https://commons.wikimedia.org/wiki/File:Covered_Wagon_on_Trail_sketch.png | Published 1919 | Public domain in U.S. | Illustrates period, not the Walling wagons. |
+| `assets/american-soldier-1812.jpg` | H. Charles McBarron Jr., *The American Soldier*, U.S. Army Center of Military History, https://commons.wikimedia.org/wiki/File:The_American_Soldier_1812.jpg | Illustration published 1975 | Public-domain U.S. Army historical artwork | **Not** Gabriel Walling, and uniforms should not be claimed as Smith's specific New York militia. |
+
+Historic newspaper **linked as pages, not copied**: *Capital Journal* 1944-12-07 advertising listing at https://oregonnews.uoregon.edu/lccn/sn90066132/1944-12-07/ed-1/seq-17/; *Oregon Statesman* 1959-03-22 Walling Sand & Gravel advertising at https://oregonnews.uoregon.edu/lccn/sn85042470/1959-03-22/ed-1/seq-38/; and *Capital Journal* 1944-10-24 “Serving Uncle Sam” column mentioning Walling relatives and Pvt. Camillo at https://oregonnews.uoregon.edu/lccn/sn90066132/1944-10-24/ed-1/seq-14/. The 1944 family connection to the gravel branch is not proven; newspaper blocks are original website-designed summaries, not reproductions.
+
+These assets give the site actual photos and period artworks while retaining clearly marked placeholders for original family portraits, military documents and quarry photographs still to be obtained.
+
 | Candidate | Source | Rights | Site treatment |
 | --- | --- | --- | --- |
 | Walling Pond photo by Rick Swart (taken 2012-03-08, uploaded 2014-10-06) | ODFW Flickr https://www.flickr.com/photos/odfw/15458956651/ | **CC BY-SA 2.0**, credit “Rick Swart / Oregon Department of Fish & Wildlife,” link source and license, mark changes | Linked, not embedded. Can install with full attribution and compatible share-alike handling. |
