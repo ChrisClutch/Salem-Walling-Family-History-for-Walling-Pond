@@ -4,7 +4,8 @@ A polished, mobile-responsive, **dependency-free static website** plus a careful
 
 ## Contents
 
-- `index.html` — complete one-page website with inline CSS, accessible navigation, family tree, historical narrative, evidence statuses, land narrative, veteran-housing vision, archive placeholders and a source ledger.
+- `index.html` — complete one-page illustrated website with accessible navigation, family tree, historical narrative, evidence statuses, visual archive, land narrative, veteran-housing vision and source ledger.
+- `assets/` — four locally stored, rights-reviewed historical photo/artwork files. They are required for the illustrated layout; upload this folder unchanged.
 - `RESEARCH.md` — 15-claim confidence matrix, era-by-era military scope, records to order, image-rights register, and publication cautions.
 
 ## Preview locally
@@ -18,7 +19,7 @@ Double-click `index.html` or run a local static server with `python3 -m http.ser
 
    ```bash
    git init
-   git add index.html RESEARCH.md README.md
+   git add index.html RESEARCH.md README.md assets
    git commit -m "Initial sourced Walling legacy site"
    git branch -M main
    git remote add origin https://github.com/YOUR-USER/walling-legacy.git
@@ -40,7 +41,8 @@ Double-click `index.html` or run a local static server with `python3 -m http.ser
 
 - Ask them to review names, relationships, service records and imagery, explicitly offering a correction mechanism.
 - Complete the high-priority record orders in `RESEARCH.md`, most importantly the Gabriel–Jesse link, Robert M. Walling's kinship and the present legal property owner.
-- Do not add archive images until rights and captions are confirmed. A referenced ODFW image is CC BY-SA 2.0; if included, preserve photographer, agency, source URL, license URL and alterations notice.
+- Four site images are now included with attribution: original Walling Pond photograph (CC BY-SA 3.0) and three contextual public-domain illustrations. See `RESEARCH.md` for dates, creator and full rights register. They do **not** establish identities of ancestors or military uniforms for the family.
+- Original newspaper pages are linked; the site-created newspaper-style graphics are **summaries, not reproduced clippings**. Get reuse clearance before installing page screenshots or crops. The 2012 ODFW image remains available separately under CC BY-SA 2.0 if desired.
 - Verify that the pond listing and zoning are still current, and keep the veterans project language conditional.
 
 ## Design system
