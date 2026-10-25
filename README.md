@@ -5,7 +5,7 @@ A polished, mobile-responsive, **dependency-free static website** plus a careful
 ## Contents
 
 - `index.html` — complete one-page illustrated website with accessible navigation, family tree, historical narrative, evidence statuses, visual archive, land narrative, veteran-housing vision and source ledger.
-- `assets/` — four locally stored, rights-reviewed historical photo/artwork files. They are required for the illustrated layout; upload this folder unchanged.
+- Four image files in the repository root (`walling-pond-2008.jpg`, `oregon-trail-bierstadt.jpg`, `american-soldier-1812.jpg`, and `covered-wagon-1919.png`) are required for the illustrated layout. Keep these alongside `index.html`.
 - `RESEARCH.md` — 15-claim confidence matrix, era-by-era military scope, records to order, image-rights register, and publication cautions.
 
 ## Preview locally
@@ -19,7 +19,7 @@ Double-click `index.html` or run a local static server with `python3 -m http.ser
 
    ```bash
    git init
-   git add index.html RESEARCH.md README.md assets
+   git add index.html RESEARCH.md README.md *.jpg *.png
    git commit -m "Initial sourced Walling legacy site"
    git branch -M main
    git remote add origin https://github.com/YOUR-USER/walling-legacy.git
@@ -28,7 +28,7 @@ Double-click `index.html` or run a local static server with `python3 -m http.ser
 
 3. Replace `YOUR-USER` with your GitHub account; authenticate through your usual GitHub flow. No git commands were run on your behalf.
 
-## Deploy on Cloudflare Pages
+## Deploy on Cloudflare
 
 1. In Cloudflare dashboard, go to **Workers & Pages → Create application → Pages → Connect to Git** (menu wording may vary).
 2. Select the GitHub repository and the `main` branch.
